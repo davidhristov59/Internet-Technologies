@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|c:\\users\\user\\desktop\\internet tehnologii\\auditoriski\\vtor kolokvium(mvc)\\views_example\\views_example\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Genres.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\migrations\\202405171648270_populategenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\migrations\\202405171648270_populategenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\views\\home\\showsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\views\\home\\showsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Artists.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Albums.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\migrations\\202405150214546_initialmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\migrations\\202405150214546_initialmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\migrations\\202405150214546_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\migrations\\202405150214546_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\views\\genre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\views\\genre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\viewmodels\\artistalbumviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\viewmodels\\artistalbumviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\views_example\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B08F57-E0C2-4F94-99A6-CE06EC80590D}|Views_Example\\Views_Example.csproj|solutionrelative:views_example\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Models\\Genre.cs",
+              "RelativeToolTip": "Views_Example\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:36:04.112Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Home\\ShowSearch.cshtml",
+              "RelativeDocumentMoniker": "Views_Example\\Views\\Home\\ShowSearch.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Home\\ShowSearch.cshtml",
+              "RelativeToolTip": "Views_Example\\Views\\Home\\ShowSearch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:15:51.126Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "Views_Example\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAzwBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:50:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Models\\Artist.cs",
+              "RelativeToolTip": "Views_Example\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:33:20.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Models\\Album.cs",
+              "RelativeToolTip": "Views_Example\\Models\\Album.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:37:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Genre\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views_Example\\Views\\Genre\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Genre\\Create.cshtml",
+              "RelativeToolTip": "Views_Example\\Views\\Genre\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:09:19.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Genre\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views_Example\\Views\\Genre\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Genre\\Index.cshtml",
+              "RelativeToolTip": "Views_Example\\Views\\Genre\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T22:53:43.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202405171648270_PopulateGenres.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Migrations\\202405171648270_PopulateGenres.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Migrations\\202405171648270_PopulateGenres.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Migrations\\202405171648270_PopulateGenres.cs",
+              "RelativeToolTip": "Views_Example\\Migrations\\202405171648270_PopulateGenres.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:48:35.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Genres [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Genres.sql",
+              "ToolTip": "dbo.Genres [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T16:57:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Artists [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Artists.sql",
+              "ToolTip": "dbo.Artists [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T16:41:08.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Albums [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Albums.sql",
+              "ToolTip": "dbo.Albums [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T16:40:54.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Views_Example\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:13:46.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Views_Example\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:58:43.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202405150214546_InitialModel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Migrations\\202405150214546_InitialModel.Designer.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Migrations\\202405150214546_InitialModel.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Migrations\\202405150214546_InitialModel.Designer.cs",
+              "RelativeToolTip": "Views_Example\\Migrations\\202405150214546_InitialModel.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:42:22.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202405150214546_InitialModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Migrations\\202405150214546_InitialModel.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Migrations\\202405150214546_InitialModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Migrations\\202405150214546_InitialModel.cs",
+              "RelativeToolTip": "Views_Example\\Migrations\\202405150214546_InitialModel.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAIwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:15:02.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Genre\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views_Example\\Views\\Genre\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Genre\\Edit.cshtml",
+              "RelativeToolTip": "Views_Example\\Views\\Genre\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T00:38:43.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Views_Example\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Views_Example\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:04:44.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views_Example\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views_Example\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBPwBQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T15:57:37.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views_Example\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views_Example\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T11:49:41.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "Views_Example\\Views\\Home\\List.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "Views_Example\\Views\\Home\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:22:08.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views_Example\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views_Example\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:06:47.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArtistAlbumViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\ViewModels\\ArtistAlbumViewModel.cs",
+              "RelativeDocumentMoniker": "Views_Example\\ViewModels\\ArtistAlbumViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\Views_Example\\Views_Example\\ViewModels\\ArtistAlbumViewModel.cs",
+              "RelativeToolTip": "Views_Example\\ViewModels\\ArtistAlbumViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:35:17.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

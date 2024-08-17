@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|c:\\users\\user\\desktop\\internet tehnologii\\auditoriski\\vtor kolokvium(mvc)\\labb\\labb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|solutionrelative:labb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|solutionrelative:labb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labb\\views\\event\\showallevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|solutionrelative:labb\\views\\event\\showallevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labb\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|solutionrelative:labb\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labb\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|solutionrelative:labb\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|c:\\users\\user\\desktop\\internet tehnologii\\auditoriski\\vtor kolokvium(mvc)\\labb\\labb\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|solutionrelative:labb\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labb\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|solutionrelative:labb\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labb\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFA1917-9AE3-41EF-8EEC-A9DFE6F33A04}|labB\\labB.csproj|solutionrelative:labb\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "labB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "labB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T11:03:15.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "labB\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Controllers\\EventController.cs",
+              "RelativeToolTip": "labB\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAADwvyAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:44:43.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "labB\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Models\\EventModel.cs",
+              "RelativeToolTip": "labB\\Models\\EventModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:45:40.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "labB\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "labB\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T23:58:38.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Event\\Add.cshtml",
+              "RelativeDocumentMoniker": "labB\\Views\\Event\\Add.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Event\\Add.cshtml",
+              "RelativeToolTip": "labB\\Views\\Event\\Add.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T22:40:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "labB\\Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "labB\\Views\\Event\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T23:27:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAllEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Event\\ShowAllEvents.cshtml",
+              "RelativeDocumentMoniker": "labB\\Views\\Event\\ShowAllEvents.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Views\\Event\\ShowAllEvents.cshtml",
+              "RelativeToolTip": "labB\\Views\\Event\\ShowAllEvents.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwC4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T23:14:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "labB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\labB\\labB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "labB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:27:38.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

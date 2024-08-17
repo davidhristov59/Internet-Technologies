@@ -1,0 +1,27 @@
+﻿@model AUD_MVC1.Models.MovieRentals
+
+
+@{
+    ViewBag.Title = "Random";
+}
+
+<!--do eden clen se pristapuva samo-->
+<h2>Title: @Model.movie.Title</h2>
+<h2>Rating: @Model.movie.Rating</h2>
+<img src="@Model.movie.ImageUrl" />
+
+<h3>Clients:</h3>
+<ul>
+    @{ <!--do poveke clenovi da se pristapi. Block e -->
+
+        int i = 0;
+        foreach (var client in Model.clients) //deka koristam block od naredbi mozam bez @, vnatre sum vo @ block-ot
+        {
+            <li>
+                <a href="ShowClient/@i">@client.fullName, @client.clenskaKarta</a>
+            </li>
+            i++;
+        }
+
+    }
+</ul>

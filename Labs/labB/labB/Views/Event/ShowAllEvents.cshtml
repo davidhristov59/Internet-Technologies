@@ -1,0 +1,54 @@
+﻿@model List<labB.Models.EventModel>
+
+@{
+    ViewBag.Title = "ShowAllEvents";
+}
+
+<h2>Show All Events</h2>
+
+<style>
+
+    table{
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th,td{
+        border: 1px solid black;
+        padding: 5px;
+        text-align: center;
+    }
+
+</style>
+
+<table>
+
+    <thead>
+
+        <tr>
+
+            <th>ID</th>
+            <th>Ime</th>
+            <th>Lokacija</th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Ime</td>
+                    <td>@item.Lokacija</td>
+
+                    
+                    <td><a href="@Url.Action("Edit", "Event", new {ID = item.ID})">Edit</a></td>
+                    <td><a href="@Url.Action("Delete", "Event", new {ID = item.ID})">Delete</a></td>
+                       
+                </tr>
+            }
+
+    </table>

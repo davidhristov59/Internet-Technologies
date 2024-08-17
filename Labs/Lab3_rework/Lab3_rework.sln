@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumsFINALNA", "..\..\Kolokviumski\AlbumsFINALNA\AlbumsFINALNA.csproj", "{5C67B209-CBD4-46E4-8F8B-255A47CB1879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albums_REWORK", "..\..\Kolokviumski\Albums_REWORK\Albums_REWORK.csproj", "{30C7FAA1-2B95-4103-892B-A6DF815930FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C67B209-CBD4-46E4-8F8B-255A47CB1879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C67B209-CBD4-46E4-8F8B-255A47CB1879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C67B209-CBD4-46E4-8F8B-255A47CB1879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C67B209-CBD4-46E4-8F8B-255A47CB1879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C7FAA1-2B95-4103-892B-A6DF815930FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C7FAA1-2B95-4103-892B-A6DF815930FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C7FAA1-2B95-4103-892B-A6DF815930FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C7FAA1-2B95-4103-892B-A6DF815930FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9374EBA1-726E-4B7E-963B-DF27EDA9672D}
+	EndGlobalSection
+EndGlobal

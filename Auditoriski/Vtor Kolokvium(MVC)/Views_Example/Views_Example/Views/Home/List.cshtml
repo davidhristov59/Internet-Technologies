@@ -1,0 +1,18 @@
+﻿@using Views_Example.Models
+@model IEnumerable<Album>
+<!--model Views_Example.Models.Album-->
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List of albums: @Model.Count() </h2>
+
+<ul>
+    @foreach(Album a in Model) 
+    {
+
+        <li>@a.Title</li>
+
+     } 
+</ul>

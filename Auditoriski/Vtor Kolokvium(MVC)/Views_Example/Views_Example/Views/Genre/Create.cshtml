@@ -1,0 +1,44 @@
+﻿@model Views_Example.Models.Genre
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<!--isto napravena so scaffolding preku Add View, pa Empty so model Genre-->
+
+<h2>Create</h2>
+
+<!--kreiranje na forma -->
+
+@using (Html.BeginForm("CreateNew", "Genre"))
+{
+
+    //2 podatoci sto imam vo klasata sakam da gi vnesam vo ovaa forma
+
+    /*
+    <div>
+
+        @Html.LabelFor(m => m.GenreID)
+        @Html.TextBoxFor(m => m.GenreID)
+        <br />
+    </div>
+    */
+
+    //ne vnesuvame genre ID , tabelata avtomatski ima ID za site 
+
+    @Html.HiddenFor(m => m.GenreID)
+
+    <div>
+
+        @Html.LabelFor(m => m.GenreName)
+        @Html.TextBoxFor(m => m.GenreName)
+        <br />
+
+    </div>
+
+    <div>
+        <button type="submit" class="btn btn-primary" >Submit</button>
+    </div>
+
+
+}

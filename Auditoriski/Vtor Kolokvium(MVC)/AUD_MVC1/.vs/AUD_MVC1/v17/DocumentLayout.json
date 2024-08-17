@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\aud_mvc1\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|solutionrelative:aud_mvc1\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|c:\\users\\user\\desktop\\internet tehnologii\\auditoriski\\vtor kolokvium(mvc)\\aud_mvc1\\aud_mvc1\\views\\movies\\showclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|solutionrelative:aud_mvc1\\views\\movies\\showclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\aud_mvc1\\models\\movierentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|solutionrelative:aud_mvc1\\models\\movierentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\aud_mvc1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|solutionrelative:aud_mvc1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\aud_mvc1\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|solutionrelative:aud_mvc1\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\aud_mvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|solutionrelative:aud_mvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\aud_mvc1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|solutionrelative:aud_mvc1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\aud_mvc1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1692DC-AE22-4EBA-ADA5-24AEEB1F95D5}|AUD_MVC1\\AUD_MVC1.csproj|solutionrelative:aud_mvc1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "AUD_MVC1\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "AUD_MVC1\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:42:05.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "AUD_MVC1\\Views\\Movies\\Random.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Views\\Movies\\Random.cshtml",
+              "RelativeToolTip": "AUD_MVC1\\Views\\Movies\\Random.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T01:25:18.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Views\\Movies\\ShowClient.cshtml",
+              "RelativeDocumentMoniker": "AUD_MVC1\\Views\\Movies\\ShowClient.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Views\\Movies\\ShowClient.cshtml",
+              "RelativeToolTip": "AUD_MVC1\\Views\\Movies\\ShowClient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T23:27:36.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "AUD_MVC1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "AUD_MVC1\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T00:39:49.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AUD_MVC1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AUD_MVC1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:36:41.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "AUD_MVC1\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Models\\Client.cs",
+              "RelativeToolTip": "AUD_MVC1\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:31:20.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieRentals.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Models\\MovieRentals.cs",
+              "RelativeDocumentMoniker": "AUD_MVC1\\Models\\MovieRentals.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Models\\MovieRentals.cs",
+              "RelativeToolTip": "AUD_MVC1\\Models\\MovieRentals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:33:39.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "AUD_MVC1\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\AUD_MVC1\\AUD_MVC1\\Models\\Movie.cs",
+              "RelativeToolTip": "AUD_MVC1\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:57:21.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

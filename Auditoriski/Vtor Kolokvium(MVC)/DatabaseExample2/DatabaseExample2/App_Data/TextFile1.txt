@@ -1,0 +1,6 @@
+﻿Dodavam Baza na podatoci 
+1. Odam prvo Individual Accounts vo Authentication koga go pravam proektot
+2. Vo Models --> IdentityModels --> dodavam so DBset posevni tabeli za sekoja klasa vo ApplicationDbContext 
+3. Add-Migration Initial --> dodavame migracija 
+4. Update-Database 
+

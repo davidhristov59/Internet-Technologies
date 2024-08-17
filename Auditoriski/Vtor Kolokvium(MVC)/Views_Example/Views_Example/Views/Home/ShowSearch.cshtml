@@ -1,0 +1,22 @@
+﻿@model Views_Example.Models.Genre
+
+@{
+    ViewBag.Title = "ShowSearch";
+}
+
+<h2>ShowSearch</h2>
+
+@using (Html.BeginForm("CreateNew", "Home")) //1. Akcija, 2. Controller
+            {
+                 <div class="form-group">
+
+                     @Html.LabelFor(m => m.GenreID)
+                     @Html.TextBoxFor(m => m.GenreID)
+
+                     @Html.LabelFor(m => m.GenreName)
+                     @Html.TextBoxFor(m => m.GenreName)
+                   
+                     <button type="submit" class="btn btn-primary">Submit</button>
+
+                 </div>
+            }

@@ -1,0 +1,33 @@
+﻿@model CRUD_MVC.Models.Client 
+
+@{
+    ViewBag.Title = "InsertNewClient";
+}
+
+<h2>InsertNewClient</h2>
+
+@using (Html.BeginForm("InsertNewClient", "Movie"))
+{
+    <div class="form-group">
+        @Html.LabelFor(client => client.fullName)
+        @Html.TextBoxFor(client => client.fullName, new { @class = "form-control" });
+        @Html.ValidationMessageFor(client => client.fullName)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(client => client.PhoneNumber)
+        @Html.TextBoxFor(client => client.PhoneNumber, new { @class = "form-control" });
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(client => client.Address)
+        @Html.TextBoxFor(client => client.Address, new { @class = "form-control" });
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(client => client.MemberCart)
+        @Html.TextBoxFor(client => client.MemberCart , new { @class = "form-control" });
+    </div>
+
+    <button type="submit" class="btn btn-default">Save</button>
+}

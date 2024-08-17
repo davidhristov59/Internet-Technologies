@@ -1,0 +1,14 @@
+﻿@model labB.Models.EventModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<h4>Ime: @Model.Ime</h4>
+<h4>Lokacija: @Model.Lokacija</h4>
+<h4>ID: @Model.ID</h4>
+
+
+<button onclick="location.href='@Url.Action("ShowAllEvents", "Event")'">Back</button>

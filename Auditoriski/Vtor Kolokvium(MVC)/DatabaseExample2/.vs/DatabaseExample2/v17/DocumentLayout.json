@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|c:\\users\\user\\desktop\\internet tehnologii\\auditoriski\\vtor kolokvium(mvc)\\databaseexample2\\databaseexample2\\views\\movies\\insertnewclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\views\\movies\\insertnewclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|c:\\users\\user\\desktop\\internet tehnologii\\auditoriski\\vtor kolokvium(mvc)\\databaseexample2\\databaseexample2\\models\\clientmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\models\\clientmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\app_data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\app_data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|c:\\users\\user\\desktop\\internet tehnologii\\auditoriski\\vtor kolokvium(mvc)\\databaseexample2\\databaseexample2\\views\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\views\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|c:\\users\\user\\desktop\\internet tehnologii\\auditoriski\\vtor kolokvium(mvc)\\databaseexample2\\databaseexample2\\migrations\\202405182329156_clientmovierelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\migrations\\202405182329156_clientmovierelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\migrations\\202405182258162_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\migrations\\202405182258162_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\databaseexample2\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68DF9D-6289-4757-B7F5-D100013CC86D}|DatabaseExample2\\DatabaseExample2.csproj|solutionrelative:databaseexample2\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientMovie.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Models\\ClientMovie.cs",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Models\\ClientMovie.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Models\\ClientMovie.cs",
+              "RelativeToolTip": "DatabaseExample2\\Models\\ClientMovie.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:47:43.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertNewClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Views\\Movies\\InsertNewClient.cshtml",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Views\\Movies\\InsertNewClient.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Views\\Movies\\InsertNewClient.cshtml",
+              "RelativeToolTip": "DatabaseExample2\\Views\\Movies\\InsertNewClient.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T22:13:58.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "DatabaseExample2\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:19:46.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\App_Data\\TextFile1.txt",
+              "RelativeDocumentMoniker": "DatabaseExample2\\App_Data\\TextFile1.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\App_Data\\TextFile1.txt",
+              "RelativeToolTip": "DatabaseExample2\\App_Data\\TextFile1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-18T22:51:13.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Views\\Clients\\Details.cshtml",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Views\\Clients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Views\\Clients\\Details.cshtml",
+              "RelativeToolTip": "DatabaseExample2\\Views\\Clients\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T01:14:50.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Models\\Client.cs",
+              "RelativeToolTip": "DatabaseExample2\\Models\\Client.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:39:46.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "DatabaseExample2\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA2wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:01:58.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202405182329156_ClientMovieRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Migrations\\202405182329156_ClientMovieRelationship.cs",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Migrations\\202405182329156_ClientMovieRelationship.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Migrations\\202405182329156_ClientMovieRelationship.cs",
+              "RelativeToolTip": "DatabaseExample2\\Migrations\\202405182329156_ClientMovieRelationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:29:24.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "DatabaseExample2\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T23:14:11.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DatabaseExample2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T23:10:49.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Models\\Movie.cs",
+              "RelativeToolTip": "DatabaseExample2\\Models\\Movie.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:40:20.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202405182258162_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Migrations\\202405182258162_Initial.cs",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Migrations\\202405182258162_Initial.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Migrations\\202405182258162_Initial.cs",
+              "RelativeToolTip": "DatabaseExample2\\Migrations\\202405182258162_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:58:23.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "DatabaseExample2\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Auditoriski\\Vtor Kolokvium(MVC)\\DatabaseExample2\\DatabaseExample2\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "DatabaseExample2\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:38:07.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

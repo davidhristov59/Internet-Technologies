@@ -1,0 +1,34 @@
+﻿@model Views_Example.Models.Genre
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm("EditGenre", "Genre"))
+{
+
+    //2 podatoci sto imam vo klasata sakam da gi vnesam vo ovaa forma
+
+    <div>
+
+        @Html.LabelFor(m => m.GenreID)
+        @Html.TextBoxFor(m => m.GenreID)
+        <br />
+    </div>
+
+    <div>
+
+        @Html.LabelFor(m => m.GenreName)
+        @Html.TextBoxFor(m => m.GenreName)
+        <br />
+
+    </div>
+
+    <div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+
+
+} 

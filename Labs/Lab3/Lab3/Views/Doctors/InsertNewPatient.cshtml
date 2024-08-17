@@ -1,0 +1,23 @@
+﻿@model Lab3.Models.DoctorPatient
+
+@{
+    ViewBag.Title = "InsertNewPatient";
+}
+
+<h2>InsertNewPatient</h2>
+
+@using (Html.BeginForm("NewPatient", "Doctors"))
+            {
+                <div class="form-control">
+
+                    @Html.HiddenFor(m => m.DoctorID)
+
+                    @Html.DropDownListFor(m => m.PatientID, new SelectList(Model.Patients, "PatientID", "Name"),
+                    new {@class ="form-control"})
+
+                </div>
+
+                <br />
+
+                <button type="submit" class="btn btn-primary">Save</button>
+            }

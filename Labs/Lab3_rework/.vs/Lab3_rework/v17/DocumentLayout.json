@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Labs\\Lab3_rework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\models\\addtorole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\models\\addalbumtostoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C7FAA1-2B95-4103-892B-A6DF815930FA}|..\\..\\Kolokviumski\\Albums_REWORK\\Albums_REWORK.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albums_rework\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C7FAA1-2B95-4103-892B-A6DF815930FA}|..\\..\\Kolokviumski\\Albums_REWORK\\Albums_REWORK.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albums_rework\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C7FAA1-2B95-4103-892B-A6DF815930FA}|..\\..\\Kolokviumski\\Albums_REWORK\\Albums_REWORK.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albums_rework\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C7FAA1-2B95-4103-892B-A6DF815930FA}|..\\..\\Kolokviumski\\Albums_REWORK\\Albums_REWORK.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albums_rework\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C7FAA1-2B95-4103-892B-A6DF815930FA}|..\\..\\Kolokviumski\\Albums_REWORK\\Albums_REWORK.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albums_rework\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C7FAA1-2B95-4103-892B-A6DF815930FA}|..\\..\\Kolokviumski\\Albums_REWORK\\Albums_REWORK.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albums_rework\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67B209-CBD4-46E4-8F8B-255A47CB1879}|..\\..\\Kolokviumski\\AlbumsFINALNA\\AlbumsFINALNA.csproj|c:\\users\\user\\desktop\\internet tehnologii\\kolokviumski\\albumsfinalna\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddToRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\AddToRole.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\AddToRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\AddToRole.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\AddToRole.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:58:52.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddAlbumToStoreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\AddAlbumToStoreDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\AddAlbumToStoreDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\AddAlbumToStoreDTO.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\AddAlbumToStoreDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:58:39.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:50:25.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:50:10.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\Albums_REWORK\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\Albums_REWORK\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:49:38.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\Albums_REWORK\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\Albums_REWORK\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:49:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\Albums_REWORK\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\Models\\Store.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\Albums_REWORK\\Models\\Store.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:47:42.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\Album.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\Album.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAABAwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:46:12.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\Store.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\Store.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:47:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\Genre.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\Genre.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:47:10.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\Albums_REWORK\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\Models\\Genre.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\Albums_REWORK\\Models\\Genre.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:47:07.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\Albums_REWORK\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\Models\\Album.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\Albums_REWORK\\Models\\Album.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:46:10.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\Albums_REWORK\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\Albums_REWORK\\Models\\Artist.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\Albums_REWORK\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:45:36.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Models\\Artist.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:44:56.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Kolokviumski\\AlbumsFINALNA\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\..\\Kolokviumski\\AlbumsFINALNA\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:29:39.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

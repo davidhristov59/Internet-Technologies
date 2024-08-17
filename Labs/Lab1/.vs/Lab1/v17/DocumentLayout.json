@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|c:\\users\\user\\desktop\\internet tehnologii\\lab1\\lab1\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|solutionrelative:lab1\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|c:\\users\\user\\desktop\\internet tehnologii\\lab1\\lab1\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|solutionrelative:lab1\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|c:\\users\\user\\desktop\\internet tehnologii\\lab1\\lab1\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|solutionrelative:lab1\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|c:\\users\\user\\desktop\\internet tehnologii\\lab1\\lab1\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|solutionrelative:lab1\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|c:\\users\\user\\desktop\\internet tehnologii\\lab1\\lab1\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|solutionrelative:lab1\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|c:\\users\\user\\desktop\\internet tehnologii\\lab1\\lab1\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BF34B3-2137-4AA3-B047-8A2D096AAB80}|Lab1\\Lab1.csproj|solutionrelative:lab1\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UspeshnoGlasanje.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\UspeshnoGlasanje.aspx",
+              "RelativeDocumentMoniker": "Lab1\\UspeshnoGlasanje.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\UspeshnoGlasanje.aspx",
+              "RelativeToolTip": "Lab1\\UspeshnoGlasanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-06T11:27:35.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Glasaj.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\Glasaj.aspx.cs",
+              "RelativeDocumentMoniker": "Lab1\\Glasaj.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\Glasaj.aspx.cs",
+              "RelativeToolTip": "Lab1\\Glasaj.aspx.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAewDoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:24:00.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Glasaj.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\Glasaj.aspx",
+              "RelativeDocumentMoniker": "Lab1\\Glasaj.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\Glasaj.aspx",
+              "RelativeToolTip": "Lab1\\Glasaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-06T11:13:43.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UspeshnoGlasanje.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\UspeshnoGlasanje.aspx.cs",
+              "RelativeDocumentMoniker": "Lab1\\UspeshnoGlasanje.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\UspeshnoGlasanje.aspx.cs",
+              "RelativeToolTip": "Lab1\\UspeshnoGlasanje.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:28:29.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "Lab1\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\Najava.aspx.cs",
+              "RelativeToolTip": "Lab1\\Najava.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:58:04.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\Najava.aspx",
+              "RelativeDocumentMoniker": "Lab1\\Najava.aspx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Internet Tehnologii\\Lab1\\Lab1\\Najava.aspx",
+              "RelativeToolTip": "Lab1\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-06T10:57:59.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

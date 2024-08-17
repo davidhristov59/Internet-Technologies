@@ -1,0 +1,34 @@
+﻿@model Lab3.Models.Hospital
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Hospital</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dd>
+            <img src="@Model.Image" style="max-height:200px;max-height: 100px" <!--dodadeno-->
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.Image)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.HospitalID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
